@@ -41,19 +41,20 @@ body {
 }
 
 /* * utility classes */
-/* .attribution {
+.attribution {
   position: absolute;
   bottom: 0;
   width: 100%;
-  text-align: center; 
-  margin-right: -740rem;
-  /* justify-self: center; */
-
-/* }
+  text-align: center;
+  /* margin-right: 60rem; */
+  justify-self: center;
+  margin-inline-start: 0.825rem;
+  margin-block: 4rem;
+}
 
 .attribution a {
   color: var(--cobalt-blue);
-} */
+}
 
 .sr-only {
   position: absolute;
